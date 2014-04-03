@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 9 resources" deleteContents="false" description="Delete 9 resources" element1="/a-walking-tour-of-all-of-springdom" element2="/connected-web" element3="/connected-web-services" element4="/connected-web-web" element5="/ioc" element6="/mobile-android" element7="/mobile-web" element8="/Servers" element9="/services" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="9" stamp="1396550655727"/>
+</session>
